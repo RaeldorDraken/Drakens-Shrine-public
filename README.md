@@ -11,8 +11,8 @@ But others are also after the burial ground of Raeldor Draken, someone wants to 
 
 ![equipItem](https://github.com/RaeldorDraken/Drakens-Shrine/assets/20644216/bd547d4a-3109-423b-afc7-985b9de1db53)
 
-She will face unknown evils, the might of the empire and any kind of savage beast and outlaws only armed with her father's old sword and her willpower. She will meet unusual allies through her travels through the Bel'heir mountains and beyond any civilized person would dare to go.
-
+She will face unknown evils, the might of the empire and any kind of savage beast and outlaws only armed with her father's old sword and10.19.0.5 her willpower. She will meet unusual allies through her travels through the Bel'heir mountains and beyond any civilized person would dare to go.
+10.19.0.5
 ![Rynn Info](https://github.com/RaeldorDraken/Drakens-Shrine/assets/20644216/f625795f-6c35-49fe-ac7c-9627e47a0093)
 ![Raeldor Info](https://github.com/RaeldorDraken/Drakens-Shrine/assets/20644216/8f132f8c-39d7-44af-b6f1-37bc56c55c33)
 
@@ -30,6 +30,7 @@ Features:
 ![Firma Twitter Patreon Combinada](https://github.com/RaeldorDraken/Drakens-Shrine/assets/20644216/a62dd5b6-3218-4c17-8d2a-ac96cc832007)
 
 more info in my twitter and patreon:
+
 https://x.com/RareDoggu
 
-https://patreon.com/RaeldorDraken
+https://patreon.com/Raeldor
