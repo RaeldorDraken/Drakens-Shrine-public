@@ -28,3 +28,7 @@ Features:
 -Unlock new powers within Rynn’s soul to fight and to traverse the terrain.
 
 ![Firma Twitter Patreon Combinada](https://github.com/RaeldorDraken/Drakens-Shrine/assets/20644216/a62dd5b6-3218-4c17-8d2a-ac96cc832007)
+
+more info in my twitter and patreon:
+https://x.com/RareDoggu
+https://patreon.com/RareDoggu
