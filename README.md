@@ -31,4 +31,5 @@ Features:
 
 more info in my twitter and patreon:
 https://x.com/RareDoggu
-https://patreon.com/RareDoggu
+
+https://patreon.com/RaeldorDraken
